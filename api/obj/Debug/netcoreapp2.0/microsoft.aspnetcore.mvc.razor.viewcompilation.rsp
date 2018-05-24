@@ -1,0 +1,5 @@
+C:\users\admin_pc\aspnetcore-generator-api\api
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=api
+--content-root=C:\users\admin_pc\aspnetcore-generator-api\api
+--file=
